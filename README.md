@@ -17,3 +17,5 @@
 ## Check the correlation between all the numerical columns and plot heatmap. 
 
 ## Draw Scatter plot between the variables to check the correlation between them. 
+
+linkedin : https://www.linkedin.com/posts/yadhukrishna-koppantakath-0701b1191_eda-outliers-trimming-activity-7252731156293398528-cyhw?utm_source=share&utm_medium=member_desktop
